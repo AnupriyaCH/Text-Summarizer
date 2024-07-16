@@ -6,7 +6,7 @@ This project is a web application for summarizing text and documents using the S
 
 1. Text Summarization:
 
-Users can input text directly into the application.
+Users can input text directly into the application.<br>
 The application processes the text and generates a summary.
 The summary, along with input and summary word counts, is displayed.
 
