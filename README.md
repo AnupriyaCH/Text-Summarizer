@@ -44,14 +44,14 @@ This project is a web application for summarizing text and documents using the S
   - Text area for users to input text.
   - Option to select the download format (Text, PDF, DOCX).
   - Button to initiate the summarization process.
-  - Display area for the summary and related statistics.
+  - Display area for the summary.
   - Download buttons for the selected format.
 
 - **Document Summarizer:**
   - File uploader for users to upload documents.
   - Option to select the download format (Text, PDF, DOCX).
   - Button to initiate the summarization process.
-  - Display area for the summary and related statistics.
+  - Display area for the summary.
   - Download buttons for the selected format.
 
 ## How to Run the Application
