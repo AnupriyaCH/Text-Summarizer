@@ -7,6 +7,7 @@ import io
 from fpdf import FPDF
 import docx
 
+# hello word
 # Ensure necessary NLTK resources are available
 nltk.download('punkt')
 nltk.download('stopwords')
